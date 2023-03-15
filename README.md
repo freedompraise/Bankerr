@@ -72,7 +72,7 @@ Request Body:
 - Swagger - API documentation tool
 
 ## Authors
-<a href="github.com/freedompraise" >Praise Freedom Dike</a>
+<a href="#github.com/freedompraise" >Praise Freedom Dike</a>
 
 ## License
 This project is licensed under the MIT License - see the <a href="https://chat.openai.com/chat/LICENSE">LICENSE file for details.</a>
