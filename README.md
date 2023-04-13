@@ -1,4 +1,4 @@
-# Bank Account API
+# Bankerr
 This is a sample project for a Bank Account API built using Spring Boot and Axon Framework.
 
 ## Getting Started
